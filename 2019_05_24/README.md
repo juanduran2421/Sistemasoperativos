@@ -7,7 +7,7 @@ Se desarrollaron tres programas:
 
 <a href="https://github.com/juanduran2421/Sistemasoperativos/blob/master/2019_05_24/libfun.c"> libfun.c </a>
 
-<a href="https://github.com/juanduran2421/Sistemasoperativos/blob/master/2019_05_24/libfun.h"> libfun.h </a>
+<a href="https://github.com/juanduran2421/Sistemasoperativos/blob/master/2019_05_24/linfun.h"> libfun.h </a>
 
 Para compilar el programa se llevan a cabo los siguientes pasos:
 
