@@ -3,7 +3,7 @@ En esta clase se hizo una revisión muy rápida de un programa sencillo en C que
 
 Se desarrollaron tres programas:
 
-https://github.com/juanduran2421/Sistemasoperativos/blob/master/2019_05_24/basico.c
+2019_05_24/basico.c
 
 libfun.c 
 
