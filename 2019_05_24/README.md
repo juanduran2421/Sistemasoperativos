@@ -9,14 +9,15 @@ libfun.h
 
 Para compilar el programa se llevan a cabo los siguientes pasos:
 
-Generar la librería
+## 1.Generar la librería
+
   gcc -c libfun.c -o libfun.o
   ar rcs libfun.a libfun.o
   
-En el paso anterior se generó el archivo libfun.a. Ahora enlazaremos el programa basico.c con la librería libfun.a.
+## 2.En el paso anterior se generó el archivo libfun.a. Ahora enlazaremos el programa basico.c con la librería libfun.a.
 
   gcc basico.c -L. -lfun -o basico
   
-Finalmente, el programa se ejecuta:
+## 3.Finalmente, el programa se ejecuta:
 
   ./basico
