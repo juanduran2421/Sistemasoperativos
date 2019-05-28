@@ -3,11 +3,11 @@ En esta clase se hizo una revisión muy rápida de un programa sencillo en C que
 
 Se desarrollaron tres programas:
 
-<a href="https://github.com/juanduran2421/Sistemasoperativos/blob/master/2019_05_24/basico.c"> basico.c </a>
+<li type="disc"> <a href="https://github.com/juanduran2421/Sistemasoperativos/blob/master/2019_05_24/basico.c"> basico.c </a> </li>
 
-<a href="https://github.com/juanduran2421/Sistemasoperativos/blob/master/2019_05_24/libfun.c"> libfun.c </a>
+<li type="disc"> <a href="https://github.com/juanduran2421/Sistemasoperativos/blob/master/2019_05_24/libfun.c"> libfun.c </a> </li>
 
-<a href="https://github.com/juanduran2421/Sistemasoperativos/blob/master/2019_05_24/linfun.h"> libfun.h </a>
+<li type="disc"> <a href="https://github.com/juanduran2421/Sistemasoperativos/blob/master/2019_05_24/linfun.h"> libfun.h </a> </li>
 
 Para compilar el programa se llevan a cabo los siguientes pasos:
 
