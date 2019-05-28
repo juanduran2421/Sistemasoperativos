@@ -9,6 +9,7 @@ Se desarrollaron tres programas:
 
 <li type="disc"> <a href="https://github.com/juanduran2421/Sistemasoperativos/blob/master/2019_05_24/linfun.h"> libfun.h </a> </li>
 
+
 Para compilar el programa se llevan a cabo los siguientes pasos:
 
 ### 1.Generar la librería
