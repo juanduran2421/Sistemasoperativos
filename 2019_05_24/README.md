@@ -3,7 +3,7 @@ En esta clase se hizo una revisión muy rápida de un programa sencillo en C que
 
 Se desarrollaron tres programas:
 
-git add <basico.c>
+basico.c
 
 libfun.c 
 
