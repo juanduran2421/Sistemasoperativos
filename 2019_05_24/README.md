@@ -17,7 +17,7 @@ Para compilar el programa se llevan a cabo los siguientes pasos:
     ar rcs libfun.a libfun.o
   
 ### 2.En el paso anterior se generó el archivo
-    libfun.a
+        libfun.a
 ### Ahora enlazaremos el programa
     basico.c
 ### con la libreria
