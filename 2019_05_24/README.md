@@ -9,6 +9,7 @@ libfun.h
 	
 Para compilar el programa se llevan a cabo los siguientes pasos:
 
+
 1.Generar libreria 
 	gcc -c libfun.c -o libfun.o
 	ar rcs libfun.a libfun.o
