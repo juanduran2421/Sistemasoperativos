@@ -13,13 +13,13 @@ Para compilar el programa se llevan a cabo los siguientes pasos:
 
 ### 1.Generar la librería
 
-  gcc -c libfun.c -o libfun.o
-  ar rcs libfun.a libfun.o
+    gcc -c libfun.c -o libfun.o
+    ar rcs libfun.a libfun.o
   
 ### 2.En el paso anterior se generó el archivo libfun.a . Ahora enlazaremos el programa basico.c con la librería libfun.a.
 
-  gcc basico.c -L. -lfun -o basico
+    gcc basico.c -L. -lfun -o basico
   
 ### 3.Finalmente, el programa se ejecuta:
 
-  ./basico
+    ./basico
