@@ -4,7 +4,9 @@ En esta clase se hizo una revisión muy rápida de un programa sencillo en C que
 Se desarrollaron tres programas:
 
 basico.c 
+
 libfun.c 
+
 libfun.h
 
 Para compilar el programa se llevan a cabo los siguientes pasos:
