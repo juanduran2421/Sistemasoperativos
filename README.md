@@ -4,4 +4,4 @@
 Este repositorio contiene los codigos relativos a diferentes actividades desarrollados en el curso de sistemas operativos- univalle - mayo-cotubre 2019
 
 # Clases
-<a href="enlacepagina.html"> Enlace a otra página </a>
+<a href="https://github.com/juanduran2421/Sistemasoperativos/tree/master/2019_05_24"> 2019_05_04 </a>
