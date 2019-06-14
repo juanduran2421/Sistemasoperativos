@@ -6,8 +6,12 @@
 Para llevar a cabo la solución del problema planteado en clase debe descargar los siguientes archivos:
 
 *[solucion.c](solucion.c)
+
 *[solucion.h](solucion.h)
+
 *[mainsol.c](mainsol.c)- este es un ejemplo
+
+
 Para generar la libreria se ejecutan los siguientes comandos:
 
 gcc -c solucion.c
