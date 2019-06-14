@@ -14,8 +14,9 @@ Para llevar a cabo la solución del problema planteado en clase debe descargar l
 
 Para generar la libreria se ejecutan los siguientes comandos:
 
-gcc -c solucion.c
-ar rc libsolucion.a solucion.o
+    gcc -c solucion.c
+    ar rc libsolucion.a solucion.o
+  
 Para compilar su programa usand la nueva libreria:
 
-gcc -o mainsol -L. mainsol.c -lsolucion 
+    gcc -o mainsol -L. mainsol.c -lsolucion 
