@@ -1,4 +1,5 @@
-#2019_06_21
+# 2019_06_21
+
 El dia de hoy se revisaorn conceptos basicos respeco al estado en el que se puede encontrar unproceso en sistesma operativo: *Waiting* , *Ready* ,*Running* y *Done*
 
 Se revisó el comando `process-run.py` que es un aplicativo provisto por el autor
