@@ -12,3 +12,8 @@ https://docs.google.com/document/d/1XrSLSVh4O4h2IODe6OTcE4TEiG9XMsLvAjaGlj-LDYQ/
 
 https://docs.google.com/document/d/1TE093E3kQSmQgBUixFgEd246gsq15GU6Ro1nNMeCfQ4/edit
 
+## Archivos tareas
+
+https://docs.google.com/document/d/1BPENT8RiONotpwliQlFJ0Bc7g4Q01_Fq9whiv9ZatUw/edit
+
+https://docs.google.com/document/d/1JmcmdYbnZysL370BZiGar64zP5qXwCTzjbrJn5qgbf4/edit
