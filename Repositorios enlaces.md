@@ -62,7 +62,7 @@ ar rc libsolucion.a solucion.o
 gcc -o mainsol -L. mainsol.c -lsolucion
 
 
-
+--------------------------------------------------------------------------------------
 
 
 git add README.md entero.h principal.c
