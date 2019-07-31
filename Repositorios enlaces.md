@@ -71,3 +71,8 @@ git commit -m "Adicionando ejemplo de archivo de cabecera"
 
 git push origin master
 
+--------------------------------------------------------------------------------------------
+
+gcc principal.c -o principal && ./principal
+
+gcc principal.c -o principal && ./principal
