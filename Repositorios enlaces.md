@@ -76,3 +76,8 @@ git push origin master
 gcc principal.c -o principal && ./principal
 
 gcc principal.c -o principal && ./principal
+
+
+https://docs.google.com/spreadsheets/d/1eSdeLLX-AJyNpzpiYh1xtyc6mjsxr7-ThOU985WU_qI/edit#gid=0
+
+https://docs.google.com/spreadsheets/d/1t6SP_ln_twt4gu5bqIeHfB0PJbVli-DsZI03JSOckKQ/edit#gid=0
