@@ -35,6 +35,8 @@ https://github.com/joanvel/exam-so-electr-nica-2019-01/blob/master/Desktop/parci
 
 https://github.com/brayanescobar2019/SistemasOperativos_2019/blob/master/2019_06_14/fork-basico.c
 
+https://github.com/brayanescobar2019/SistemasOperativos_2019/blob/master/2019_07_12/memory-user.c
+
 ## Comandos
 
 rm -rf SistemasOperativos/
