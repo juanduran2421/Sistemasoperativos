@@ -34,3 +34,24 @@ https://github.com/joanvel/exam-so-electr-nica-2019-01/tree/master/Desktop/parci
 https://github.com/joanvel/exam-so-electr-nica-2019-01/blob/master/Desktop/parcial/pregunta4/punto1.c
 
 https://github.com/brayanescobar2019/SistemasOperativos_2019/blob/master/2019_06_14/fork-basico.c
+
+## Comandos
+
+rm -rf SistemasOperativos/
+git clone https://github.com/josanabr/SistemasOperativos.git
+cd SistemasOperativos/
+mkdir 2019_06_14
+cd 2019_06_14
+vi README.md
+git add README.md && git commit -m "adicionando README.md" && git push origin master
+man 2 fork
+cp fork-basico.c fork-wait.c
+gcc solucion.c -c
+ar rc libsolucion.a solucion.o
+gcc -o mainsol -L. mainsol.c -lsolucion
+
+
+
+git add README.md entero.h principal.c
+git commit -m "Adicionando ejemplo de archivo de cabecera"
+git push origin master
