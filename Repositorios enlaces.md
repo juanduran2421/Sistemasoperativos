@@ -17,3 +17,19 @@ https://docs.google.com/document/d/1TE093E3kQSmQgBUixFgEd246gsq15GU6Ro1nNMeCfQ4/
 https://docs.google.com/document/d/1BPENT8RiONotpwliQlFJ0Bc7g4Q01_Fq9whiv9ZatUw/edit
 
 https://docs.google.com/document/d/1JmcmdYbnZysL370BZiGar64zP5qXwCTzjbrJn5qgbf4/edit
+
+
+## Adicionales 
+
+http://c.conclase.net/ficheros/?cap=002
+
+http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap3/f_cap34.htm
+
+https://github.com/brayanescobar2019/SistemasOperativos_2019/blob/master/2019_06_14/solucion.c
+
+https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C/Manejo_de_archivos
+
+https://github.com/joanvel/exam-so-electr-nica-2019-01/tree/master/Desktop/parcial
+
+https://github.com/joanvel/exam-so-electr-nica-2019-01/blob/master/Desktop/parcial/pregunta4/punto1.c
+
