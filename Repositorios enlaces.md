@@ -37,6 +37,8 @@ https://github.com/brayanescobar2019/SistemasOperativos_2019/blob/master/2019_06
 
 https://github.com/brayanescobar2019/SistemasOperativos_2019/blob/master/2019_07_12/memory-user.c
 
+http://c.conclase.net/librerias/?ansifun=fgetc
+
 ## Comandos
 
 rm -rf SistemasOperativos/
