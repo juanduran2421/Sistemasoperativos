@@ -41,6 +41,8 @@ http://c.conclase.net/librerias/?ansifun=fgetc
 
 https://github.com/brayanescobar2019/SistemasOperativos_2019/blob/master/2019_06_14/fork-wait.c
 
+https://github.com/juanduran2421/Sistemasoperativos/blob/master/2019_06_14/demo.c
+
 ## Comandos
 
 rm -rf SistemasOperativos/
