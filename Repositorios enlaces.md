@@ -43,6 +43,8 @@ https://github.com/brayanescobar2019/SistemasOperativos_2019/blob/master/2019_06
 
 https://github.com/juanduran2421/Sistemasoperativos/blob/master/2019_06_14/demo.c
 
+https://prezi.com/104vpcjten3e/tareas-basicas-del-sistema-operativo-y-tipos-de-dispositivos/
+
 ## Comandos
 
 rm -rf SistemasOperativos/
