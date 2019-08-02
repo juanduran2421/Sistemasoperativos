@@ -25,7 +25,7 @@ void *worker(void *arg) {
 	counter++;
     }
     abrir_puerta(miPuerta);
-     printf("Tiempo transcurrido: %f", ((double)clock() - start)));
+     printf("Tiempo transcurrido: %f", ((double)clock() - start));
     return NULL;
 }
 
@@ -39,7 +39,7 @@ void *worker1(void *arg) {
   counter++;
    abrir_puerta(miPuerta);
     }
-    printf("Tiempo transcurrido: %f", ((double)clock() - start)));
+    printf("Tiempo transcurrido: %f", ((double)clock() - start));
     return NULL;
 }
 int main(int argc, char *argv[]) {
