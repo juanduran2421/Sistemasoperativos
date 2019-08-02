@@ -18,7 +18,7 @@ Tiempo transcurrido1: 1.000000
  Tiempo transcurrido2: 2.000000
  
   Tiempo transcurrido1: 2.000000
- Tiempo transcurrido2: 2.000000
+ Tiempo transcurrido2: 0.000000
 
 
 Tiempo transcurrido1: 2.000000
