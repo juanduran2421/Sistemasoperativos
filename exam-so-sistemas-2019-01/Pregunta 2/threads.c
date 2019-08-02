@@ -8,7 +8,7 @@
 #include "mycommon.h"
 
 puerta miPuerta; 
-
+ 
 double v = 0;
 
 void *worker(void *arg) {
