@@ -5,7 +5,8 @@ http://diagramas-de-flujo.blogspot.com/2013/01/medir-tiempo-ejecucion-funcion-en
 
 Para hacer este punto creé dos worker, uno para cada punto pedido, y luego con el codigo del link tome el tiempo que le tomaba a cada worker realizar la tarea.
 Yo creo que la diferencia de tiempos podría ser porque un worker solo cierra y abre la puerta una vez, mientras que el otro tiene que hacerlo muchas veces ya que estos comandos estan dentro del fork
-Tiempo transcurrido1 es del primero hilo y Tiempo transcurrido2 es del segundo hilo
+
+### Tiempo transcurrido1 es del primero hilo y Tiempo transcurrido2 es del segundo hilo
 
  Tiempo transcurrido1: 1.000000
  Tiempo transcurrido2: 1.000000
