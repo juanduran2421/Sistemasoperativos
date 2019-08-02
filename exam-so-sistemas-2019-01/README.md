@@ -3,7 +3,8 @@
 Link usado:
 http://diagramas-de-flujo.blogspot.com/2013/01/medir-tiempo-ejecucion-funcion-en-c.html
 
-Para hacer este punto cree dos worker, uno para cada punto pedido, y luego tome el tiempo que le tomaba a cada worker realizar la tarea de la forma que explicaban en el link.
+Para hacer este punto creé dos worker, uno para cada punto pedido, y luego tome el tiempo que le tomaba a cada worker realizar la tarea de la forma que explicaban en el link.
+Yo creo que la diferencia de tiempos podría ser porque un worker solo cierra y abre la puerta una vez, mientras que el otro tiene que hacerlo muchas veces ya que estos comandos estan dentro del fork
 ## Pregunta 2
 
 Link usado:
