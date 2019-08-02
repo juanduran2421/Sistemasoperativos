@@ -3,6 +3,10 @@
 #include <stdlib.h>
 #include <sys/types.h>
 #include <sys/wait.h> 
+#include <stdio.h>
+#include <time.h>
+
+
 #include "common.h"
 #include "common_threads.h"
 #include "mycommon.h"
@@ -12,6 +16,8 @@ puerta miPuerta;
 int loops;
 
 void *worker(void *arg) {
+   clock_t start = clock();
+	
     int i;
     cerrar_puerta(miPuerta);
     for (i = 0; i < loops; i++) {
@@ -19,10 +25,12 @@ void *worker(void *arg) {
 	counter++;
     }
     abrir_puerta(miPuerta);
+     printf("Tiempo transcurrido: %f", ((double)clock() - start)));
     return NULL;
 }
 
 void *worker1(void *arg) {
+    clock_t start = clock();
     int i;
     
     for (i = 0; i < loops; i++) {
@@ -31,7 +39,7 @@ void *worker1(void *arg) {
   counter++;
    abrir_puerta(miPuerta);
     }
-   
+    printf("Tiempo transcurrido: %f", ((double)clock() - start)));
     return NULL;
 }
 int main(int argc, char *argv[]) {
