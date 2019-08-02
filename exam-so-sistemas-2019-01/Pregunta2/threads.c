@@ -6,7 +6,7 @@
 #include "common.h"
 #include "common_threads.h"
 #include "mycommon.h"
-
+ 
 puerta miPuerta; 
  
 double v = 0;
