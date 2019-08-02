@@ -1,6 +1,6 @@
 #ifndef __MYCOMMON__
 #define __MYCOMMON__
-
+ 
 #include "pthread.h"
 #include "common.h"
 #define puerta pthread_mutex_t // nuevo tipo de dato
