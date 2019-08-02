@@ -7,15 +7,23 @@
 volatile int counter = 0;
 puerta miPuerta; 
 int loops;
+double v = 0;
 
 void *worker(void *arg) {
-    int i;
-    cerrar_puerta(miPuerta);
-    for (i = 0; i < loops; i++) {
-	counter++;
-    }
-    abrir_puerta(miPuerta);
+    sleep(2);
+    double z = 25;
+    double y = 350;
+
+    v =  (z / y);
     return NULL;
+}
+
+void *worker1 (void *arg){
+	double x = 1250;
+	v = x * v;
+	return NULL;
+	
+	
 }
 
 int main(int argc, char *argv[]) {
@@ -31,6 +39,6 @@ int main(int argc, char *argv[]) {
     Pthread_create(&p2, NULL, worker, NULL);
     Pthread_join(p1, NULL);
     Pthread_join(p2, NULL);
-    printf("Final value   : %d\n", counter);
+    printf("Final value   : %d\n", v);
     return 0;
 }
