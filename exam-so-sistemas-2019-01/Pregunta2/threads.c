@@ -9,7 +9,7 @@
  
 puerta miPuerta; 
  
-double v = 0;
+double v = 1;
 
 void *worker(void *arg) {
     sleep(2);
