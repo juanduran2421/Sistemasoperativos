@@ -4,7 +4,7 @@
 #include <sys/time.h>
 #include <sys/stat.h>
 #include <assert.h>
-
+ 
 double GetTime() {
     struct timeval t;
     int rc = gettimeofday(&t, NULL);
