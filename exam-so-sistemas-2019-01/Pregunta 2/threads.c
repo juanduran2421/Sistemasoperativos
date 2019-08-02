@@ -29,11 +29,7 @@ void *worker1 (void *arg){
 }
 
 int main(int argc, char *argv[]) {
-    if (argc != 2) { 
-	fprintf(stderr, "usage: threads <loops>\n"); 
-	exit(1); 
-    } 
-    loops = atoi(argv[1]);
+   
     pthread_t p1, p2;
     crear_puerta(miPuerta);
     printf("Initial value : %d\n", counter);
