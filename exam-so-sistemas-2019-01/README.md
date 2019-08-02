@@ -1,5 +1,9 @@
 # Parcial 1
 ## Pregunta 1
+Link usado:
+http://diagramas-de-flujo.blogspot.com/2013/01/medir-tiempo-ejecucion-funcion-en-c.html
+
+Para hacer este punto cree dos worker, uno para cada punto pedido, y luego tome el tiempo que le tomaba a cada worker realizar la tarea de la forma que explicaban en el link.
 ## Pregunta 2
 
 Link usado:
