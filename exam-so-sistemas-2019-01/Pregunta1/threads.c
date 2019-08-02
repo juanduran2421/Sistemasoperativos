@@ -1,14 +1,15 @@
+ 
+
+#include "common.h"
+#include "common_threads.h"
+#include "mycommon.h"
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
 #include <sys/wait.h> 
 #include <time.h>
- 
 
-#include "common.h"
-#include "common_threads.h"
-#include "mycommon.h"
 
 volatile int counter = 0;
 puerta miPuerta; 
