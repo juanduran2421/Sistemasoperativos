@@ -1,9 +1,11 @@
+#include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <sys/types.h>
+#include <sys/wait.h> 
 #include "common.h"
 #include "common_threads.h"
 #include "mycommon.h"
-
 volatile int counter = 0;
 puerta miPuerta; 
 int loops;
@@ -36,9 +38,9 @@ int main(int argc, char *argv[]) {
     crear_puerta(miPuerta);
     printf("Initial value : %d\n", counter);
     Pthread_create(&p1, NULL, worker, NULL); 
-    Pthread_create(&p2, NULL, worker, NULL);
+    Pthread_create(&p2, NULL, worker1, NULL);
     Pthread_join(p1, NULL);
     Pthread_join(p2, NULL);
-    printf("Final value   : %d\n", v);
+    printf("Final value   : %f\n", v);
     return 0;
 }
