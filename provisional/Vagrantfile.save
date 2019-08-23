@@ -1,0 +1,1 @@
+vb.customize [ 'modifyvm', :id, '--name', 'demo-00' ]
